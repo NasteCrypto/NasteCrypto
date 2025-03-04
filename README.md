@@ -17,9 +17,10 @@ Projets de recherche en mathématiques et informatique
 
 🌱 Ce que j’apprends actuellement :
 
-Techniques avancées de cryptographie
+* Techniques avancées de cryptographie
 
-Protocoles de sécurité et analyse logicielle
+* Protocoles de sécurité et analyse logicielle
+* 
 
 
 
@@ -28,9 +29,17 @@ Protocoles de sécurité et analyse logicielle
 
 💡 Projets en cours
 
-Développement de projets pratiques en cryptographie et sécurité
+* Développement de projets pratiques en cryptographie et sécurité
 
-Recherches en cryptographie et applications à la protection des données
+* Recherches en cryptographie et applications à la protection des données
+
+* Attaques par injection des fautes 
+
+* Algorithmes de F5
+
+
+
+
 
 
 
